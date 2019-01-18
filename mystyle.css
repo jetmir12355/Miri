@@ -1,0 +1,30 @@
+Body {
+Background-image:url("https://cdn.pixabay.com/photo/2018/04/13/14/56/flower-3316681_960_720.jpg");
+Background-repeat:no-repeat;
+Background-size:100%;
+}
+h1 {
+Text-align:center;
+Color:FFFFFF;
+}
+  Div {
+Text-align:center;
+Background-color:#000000
+Font-size:20px;
+Border:3px solid white:
+Color:#FFFF00;
+}
+Table, td, th
+{
+Border:1px solid green;
+Padding:15px;
+}
+th
+{
+Background-color:green;
+Color:white;
+}
+A:hover,a:active
+{
+background-color:#7A991A;
+}
